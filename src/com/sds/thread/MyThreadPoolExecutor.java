@@ -1,7 +1,6 @@
 package com.sds.thread;
 
 import jdk.nashorn.internal.ir.Block;
-import sun.tools.jconsole.Worker;
 
 import javax.swing.*;
 import java.util.HashMap;

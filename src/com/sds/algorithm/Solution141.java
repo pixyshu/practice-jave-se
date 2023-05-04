@@ -2,20 +2,6 @@ package com.sds.algorithm;
 
 import java.util.Scanner;
 
-/**
- * TODO
- * Created by shu.ds on 2023/3/13
- **/
-// 定义链表节点
-class ListNode{
-    int val;
-    ListNode next;
-    ListNode(int val){
-        this.val = val;
-        next = null;
-    }
-}
-
 public class Solution141 {
     public boolean hasCycle(ListNode head){
         // 1 参数合法性校验
